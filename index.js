@@ -16,3 +16,5 @@ function powerOfTwo(n){
 
 console.log(powerOfTwo(8))
 console.log(powerOfTwo(27))
+
+// Anytime you reduce input size by half...Big O === O(logn)
